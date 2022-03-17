@@ -1,0 +1,15 @@
+/Users/laytonjd/Midterm_Project/bin/Debug/net5.0/Midterm_Project.deps.json
+/Users/laytonjd/Midterm_Project/bin/Debug/net5.0/Midterm_Project.runtimeconfig.json
+/Users/laytonjd/Midterm_Project/bin/Debug/net5.0/Midterm_Project.runtimeconfig.dev.json
+/Users/laytonjd/Midterm_Project/bin/Debug/net5.0/Midterm_Project.dll
+/Users/laytonjd/Midterm_Project/bin/Debug/net5.0/ref/Midterm_Project.dll
+/Users/laytonjd/Midterm_Project/bin/Debug/net5.0/Midterm_Project.pdb
+/Users/laytonjd/Midterm_Project/obj/Debug/net5.0/Midterm_Project.csproj.AssemblyReference.cache
+/Users/laytonjd/Midterm_Project/obj/Debug/net5.0/Midterm_Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laytonjd/Midterm_Project/obj/Debug/net5.0/Midterm_Project.AssemblyInfoInputs.cache
+/Users/laytonjd/Midterm_Project/obj/Debug/net5.0/Midterm_Project.AssemblyInfo.cs
+/Users/laytonjd/Midterm_Project/obj/Debug/net5.0/Midterm_Project.csproj.CoreCompileInputs.cache
+/Users/laytonjd/Midterm_Project/obj/Debug/net5.0/Midterm_Project.dll
+/Users/laytonjd/Midterm_Project/obj/Debug/net5.0/ref/Midterm_Project.dll
+/Users/laytonjd/Midterm_Project/obj/Debug/net5.0/Midterm_Project.pdb
+/Users/laytonjd/Midterm_Project/obj/Debug/net5.0/Midterm_Project.genruntimeconfig.cache
